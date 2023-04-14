@@ -1,3 +1,6 @@
+//BRUTE FORCE
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -13,7 +16,6 @@ int main() {
 	}
 	int q;
 	cin >> q;
-	vector<vector<int>> vec;
 	while(q--)
 	{
 		int l,r;
